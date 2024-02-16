@@ -1,0 +1,14 @@
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\bin\Debug\net8.0\Classes.exe
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\bin\Debug\net8.0\Classes.deps.json
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\bin\Debug\net8.0\Classes.dll
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\bin\Debug\net8.0\Classes.pdb
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\obj\Debug\net8.0\Classes.dll
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\obj\Debug\net8.0\refint\Classes.dll
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\obj\Debug\net8.0\Classes.pdb
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+C:\Users\ozt28\Desktop\kamp\CSharpCourse\Classes\obj\Debug\net8.0\ref\Classes.dll
