@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gaming\\.nuget\\packages\\": {}
+    "C:\\Users\\ozt28\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaming\\Desktop\\kamp\\CSharpCourse\\RecapDemo1\\RecapDemo1.csproj",
+      "projectUniqueName": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\RecapDemo1\\RecapDemo1.csproj",
       "projectName": "RecapDemo1",
-      "projectPath": "C:\\Users\\Gaming\\Desktop\\kamp\\CSharpCourse\\RecapDemo1\\RecapDemo1.csproj",
-      "packagesPath": "C:\\Users\\Gaming\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaming\\Desktop\\kamp\\CSharpCourse\\RecapDemo1\\obj\\",
+      "projectPath": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\RecapDemo1\\RecapDemo1.csproj",
+      "packagesPath": "C:\\Users\\ozt28\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\RecapDemo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ozt28\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

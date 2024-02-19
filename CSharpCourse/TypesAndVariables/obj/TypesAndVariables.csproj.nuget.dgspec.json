@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gaming\\Desktop\\kamp\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj": {}
+    "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gaming\\Desktop\\kamp\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj": {
+    "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaming\\Desktop\\kamp\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj",
+        "projectUniqueName": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj",
         "projectName": "TypesAndVariables",
-        "projectPath": "C:\\Users\\Gaming\\Desktop\\kamp\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj",
-        "packagesPath": "C:\\Users\\Gaming\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaming\\Desktop\\kamp\\CSharpCourse\\TypesAndVariables\\obj\\",
+        "projectPath": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj",
+        "packagesPath": "C:\\Users\\ozt28\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\TypesAndVariables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ozt28\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
