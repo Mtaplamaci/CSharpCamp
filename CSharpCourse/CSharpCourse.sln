@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesDemo", "Interface
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inhertitance", "Inhertitance\Inhertitance.csproj", "{A3073F29-B5B5-4C1C-B1A7-7BF6D6EC9223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{73F7C4B5-47DD-4F93-93AB-2CC88C59D6BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{73F7C4B5-47DD-4F93-93AB-2CC88C59D6BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consturactors", "Consturactors\Consturactors.csproj", "{6A8F9893-BFC5-4D19-9B2F-D008A384E010}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{73F7C4B5-47DD-4F93-93AB-2CC88C59D6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73F7C4B5-47DD-4F93-93AB-2CC88C59D6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73F7C4B5-47DD-4F93-93AB-2CC88C59D6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A8F9893-BFC5-4D19-9B2F-D008A384E010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8F9893-BFC5-4D19-9B2F-D008A384E010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8F9893-BFC5-4D19-9B2F-D008A384E010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8F9893-BFC5-4D19-9B2F-D008A384E010}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

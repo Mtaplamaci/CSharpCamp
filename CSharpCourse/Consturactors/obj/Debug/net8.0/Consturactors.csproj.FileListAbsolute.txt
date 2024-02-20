@@ -1,0 +1,15 @@
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\bin\Debug\net8.0\Consturactors.exe
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\bin\Debug\net8.0\Consturactors.deps.json
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\bin\Debug\net8.0\Consturactors.runtimeconfig.json
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\bin\Debug\net8.0\Consturactors.dll
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\bin\Debug\net8.0\Consturactors.pdb
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\obj\Debug\net8.0\Consturactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\obj\Debug\net8.0\Consturactors.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\obj\Debug\net8.0\Consturactors.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\obj\Debug\net8.0\Consturactors.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\obj\Debug\net8.0\Consturactors.sourcelink.json
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\obj\Debug\net8.0\Consturactors.dll
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\obj\Debug\net8.0\refint\Consturactors.dll
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\obj\Debug\net8.0\Consturactors.pdb
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\obj\Debug\net8.0\Consturactors.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\CSharpCamp\CSharpCamp\CSharpCourse\Consturactors\obj\Debug\net8.0\ref\Consturactors.dll
