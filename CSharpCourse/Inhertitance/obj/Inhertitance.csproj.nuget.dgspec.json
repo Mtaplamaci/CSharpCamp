@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\Inhertitance\\Inhertitance.csproj": {}
+    "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\Inhertitance\\Inhertitance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\Inhertitance\\Inhertitance.csproj": {
+    "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\Inhertitance\\Inhertitance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\Inhertitance\\Inhertitance.csproj",
+        "projectUniqueName": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\Inhertitance\\Inhertitance.csproj",
         "projectName": "Inhertitance",
-        "projectPath": "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\Inhertitance\\Inhertitance.csproj",
-        "packagesPath": "C:\\Users\\Gaming\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\Inhertitance\\obj\\",
+        "projectPath": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\Inhertitance\\Inhertitance.csproj",
+        "packagesPath": "C:\\Users\\ozt28\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\Inhertitance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ozt28\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

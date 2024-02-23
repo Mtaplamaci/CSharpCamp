@@ -1,0 +1,15 @@
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\bin\Debug\net8.0\LinqProject.exe
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\bin\Debug\net8.0\LinqProject.deps.json
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\bin\Debug\net8.0\LinqProject.runtimeconfig.json
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\bin\Debug\net8.0\LinqProject.dll
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\bin\Debug\net8.0\LinqProject.pdb
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfoInputs.cache
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfo.cs
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.sourcelink.json
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.dll
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\obj\Debug\net8.0\refint\LinqProject.dll
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.pdb
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.genruntimeconfig.cache
+C:\Users\ozt28\Desktop\CSharpCamp\CSharpCourse\LinqProject\obj\Debug\net8.0\ref\LinqProject.dll
