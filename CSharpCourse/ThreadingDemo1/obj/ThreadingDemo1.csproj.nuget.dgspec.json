@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\ThreadingDemo1\\ThreadingDemo1.csproj": {}
+    "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\ThreadingDemo1\\ThreadingDemo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\ThreadingDemo1\\ThreadingDemo1.csproj": {
+    "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\ThreadingDemo1\\ThreadingDemo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\ThreadingDemo1\\ThreadingDemo1.csproj",
+        "projectUniqueName": "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\ThreadingDemo1\\ThreadingDemo1.csproj",
         "projectName": "ThreadingDemo1",
-        "projectPath": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\ThreadingDemo1\\ThreadingDemo1.csproj",
-        "packagesPath": "C:\\Users\\ozt28\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\ThreadingDemo1\\obj\\",
+        "projectPath": "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\ThreadingDemo1\\ThreadingDemo1.csproj",
+        "packagesPath": "C:\\Users\\Gaming\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\ThreadingDemo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ozt28\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

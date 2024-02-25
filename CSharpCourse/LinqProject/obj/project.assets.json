@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ozt28\\.nuget\\packages\\": {}
+    "C:\\Users\\Gaming\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\LinqProject\\LinqProject.csproj",
+      "projectUniqueName": "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\LinqProject\\LinqProject.csproj",
       "projectName": "LinqProject",
-      "projectPath": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\LinqProject\\LinqProject.csproj",
-      "packagesPath": "C:\\Users\\ozt28\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ozt28\\Desktop\\CSharpCamp\\CSharpCourse\\LinqProject\\obj\\",
+      "projectPath": "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\LinqProject\\LinqProject.csproj",
+      "packagesPath": "C:\\Users\\Gaming\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gaming\\Desktop\\CSharpCamp\\CSharpCamp\\CSharpCourse\\LinqProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ozt28\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
