@@ -1,0 +1,14 @@
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\bin\Debug\net8.0\KodlamaIoModelling.exe
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\bin\Debug\net8.0\KodlamaIoModelling.deps.json
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\bin\Debug\net8.0\KodlamaIoModelling.runtimeconfig.json
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\bin\Debug\net8.0\KodlamaIoModelling.dll
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\bin\Debug\net8.0\KodlamaIoModelling.pdb
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\obj\Debug\net8.0\KodlamaIoModelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\obj\Debug\net8.0\KodlamaIoModelling.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\obj\Debug\net8.0\KodlamaIoModelling.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\obj\Debug\net8.0\KodlamaIoModelling.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\obj\Debug\net8.0\KodlamaIoModelling.dll
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\obj\Debug\net8.0\refint\KodlamaIoModelling.dll
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\obj\Debug\net8.0\KodlamaIoModelling.pdb
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\obj\Debug\net8.0\KodlamaIoModelling.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\kamp\KodlamaIoModelling\KodlamaIoModelling\obj\Debug\net8.0\ref\KodlamaIoModelling.dll
